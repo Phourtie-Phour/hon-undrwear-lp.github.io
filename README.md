@@ -40,6 +40,8 @@ The provided design images did not perfectly align with the actual layout.
 
 Multiple adjustments were requested to improve visual balance and clarity.
 
+### Approach
+
 - Responded quickly to requests
 
 - Improved layout structure for readability
